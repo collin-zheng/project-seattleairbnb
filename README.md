@@ -18,9 +18,15 @@ As a keen traveller and investor, I'm interested in the AirBnb market for cities
 
 ## Data & Libraries <a name="requirements"></a>
 
-The project was prototyped in Jupyter Lab using Anaconda 1.0.2, which uses Python 3.6. Important libraries include: NumPy, Pandas, Matplotlib, Seaborn and Sklearn.
+The analysis requires Jupyter Lab (Anaconda 1.0.2, Python 3.6). Important libraries include: NumPy, Pandas, Matplotlib, Seaborn and Sklearn.
 
-Three tables are used for the analysis: calendar.csv, listings.csv and review.csv.
+The analysis can be found in a Jupyter notebook: 
+- Project_SeattleAirbnb.ipynb.
+
+Three tables are used for the analysis: 
+- calendar.csv: table of 1.4 million records on every listing for each day for roughly a year in Seattle.
+- listings.csv: table of 3,800 listings available to rent during that time.
+- review.csv: table of 85,000 user reviews. This data was not directly used for this analysis, but may be useful for future extensions.
 
 ## Results <a name="results"></a>
 
