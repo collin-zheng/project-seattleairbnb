@@ -4,7 +4,8 @@
 
 1. [Motivation](#motivation)
 2. [Data and Libraries](#requirements)
-4. [Results](#results)
+3. [Results](#results)
+4. [Blog](#blog)
 
 ## Motivation <a name="libraries"></a>
 
@@ -26,5 +27,5 @@ Three tables are used for the analysis: calendar.csv, listings.csv and review.cs
 In short, I found that the median prices of rentals were the highest in summer; that apartments and houses were the most common rentals, and also the most popular; that the most popular rentals had the most generous cancellation policies; and that the most popular rentals had the quickest enquiry response time by their hosts.
 
 
-## Blog <a name="results"></a>
-Here's my [link](https://medium.com/@col_jung/travelling-or-investing-seattles-airbnb-scene-a4d8e613a1ca "blog") post about this project.
+## Blog <a name="blog"></a>
+Here's my [blog](https://medium.com/@col_jung/travelling-or-investing-seattles-airbnb-scene-a4d8e613a1ca "blog") post about this project.
