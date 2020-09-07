@@ -18,6 +18,9 @@ As a keen traveller and investor, I'm interested in the AirBnb market for cities
 
 The project was prototyped in Jupyter Lab using Anaconda 1.0.2, which uses Python 3.6. Important libraries include: NumPy, Pandas, Matplotlib, Seaborn and Sklearn.
 
+Three tables are used for the analysis: calendar.csv, listings.csv and review.csv.
+
+
 ## Results <a name="results"></a>
 
 testing 12345
